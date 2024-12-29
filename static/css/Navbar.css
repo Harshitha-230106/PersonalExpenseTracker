@@ -1,0 +1,18 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #333;
+  padding: 10px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
+  margin-right: 15px;
+}
+
+.rightNav {
+  display: flex;
+}
+
